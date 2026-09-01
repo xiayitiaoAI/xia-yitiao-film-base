@@ -6,8 +6,9 @@
 
 ## 目前内容
 
-- `skills/ai-short-drama-assets.md`：从剧本整理并生成图片资产
-- `skills/seedance-video-prompts.md`：把剧本拆成 Seedance 视频提示词
+- `skills/script-asset-supervisor.md`：从剧本整理并生成图片资产
+- `skills/seedance-2-0-prompts.md`：Seedance 2.0 视频提示词
+- `skills/seedance-2-5-prompts.md`：Seedance 2.5 视频提示词
 - `resources.md`：相关 Skill 和外部资料链接
 
 这套内容来自实际制作，会继续更新。
@@ -25,4 +26,3 @@
 - ChatGPT / Codex：剧本整理、资产规划、提示词和图像生成
 - 即梦 / Dreamina：视频生成
 - 剪映 / CapCut：剪辑和拼接
-
