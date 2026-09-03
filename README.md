@@ -9,6 +9,9 @@
 - `skills/script-asset-supervisor.md`：从剧本整理并生成图片资产
 - `skills/seedance-2-0-prompts.md`：Seedance 2.0 视频提示词
 - `skills/seedance-2-5-prompts.md`：Seedance 2.5 视频提示词
+- `skills/script-asset-supervisor-en.md`: English asset-generation Skill
+- `skills/seedance-2-0-prompts-en.md`: English Seedance 2.0 video-prompt Skill
+- `skills/seedance-2-5-prompts-en.md`: English Seedance 2.5 video-prompt Skill
 - `resources.md`：相关 Skill 和外部资料链接
 
 这套内容来自实际制作，会继续更新。
